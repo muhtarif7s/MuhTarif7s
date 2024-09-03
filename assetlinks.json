@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.muhtarif7s.siragalqulub",
+      "sha256_cert_fingerprints": [
+        "429a69bfdd02929e414af40ce1c458b2304f7f84f1ec0d13f7c647921fc58fbc"
+      ]
+    }
+  }
+]
